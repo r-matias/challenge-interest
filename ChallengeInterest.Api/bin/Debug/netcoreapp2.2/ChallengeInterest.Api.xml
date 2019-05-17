@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChallengeInterest.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ChallengeInterest.Api.Controllers.CalculationsController.InterestCalculate(System.Decimal,System.Int32)">
+            <summary>
+            Realiza o calculo de juros baseado em um valor inicial (saldo) e a quantidade
+            de meses que esse saldo vai render com 1% ao mês
+            </summary>
+            <param name="valorinicial">Saldo que sera calculado os juros</param>
+            <param name="meses">Quantidade de meses que o saldo vai render</param>
+            <returns>Retorna uma string no formato (pt-BR) 105,10</returns>
+        </member>
+        <member name="M:ChallengeInterest.Api.Controllers.InfoHubController.ShowMeTheCode">
+            <summary>
+            Retorna a url do código do desse projeto no GitHub
+            </summary>
+            <returns>Retorna uma string com a url do código no GitHub</returns>
+        </member>
+    </members>
+</doc>

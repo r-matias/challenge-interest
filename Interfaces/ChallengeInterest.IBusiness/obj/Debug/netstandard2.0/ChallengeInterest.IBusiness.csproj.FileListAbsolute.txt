@@ -1,0 +1,9 @@
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\bin\Debug\netstandard2.0\ChallengeInterest.IBusiness.deps.json
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\bin\Debug\netstandard2.0\ChallengeInterest.IBusiness.dll
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\bin\Debug\netstandard2.0\ChallengeInterest.IBusiness.pdb
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\obj\Debug\netstandard2.0\ChallengeInterest.IBusiness.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\obj\Debug\netstandard2.0\ChallengeInterest.IBusiness.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\obj\Debug\netstandard2.0\ChallengeInterest.IBusiness.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\obj\Debug\netstandard2.0\ChallengeInterest.IBusiness.AssemblyInfo.cs
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\obj\Debug\netstandard2.0\ChallengeInterest.IBusiness.dll
+C:\Users\rafae\source\repos\ChallengeInterest\Interfaces\ChallengeInterest.IBusiness\obj\Debug\netstandard2.0\ChallengeInterest.IBusiness.pdb

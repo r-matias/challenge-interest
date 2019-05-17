@@ -1,0 +1,9 @@
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\bin\Debug\netstandard2.0\ChallengeInterest.ViewModel.deps.json
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\bin\Debug\netstandard2.0\ChallengeInterest.ViewModel.dll
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\bin\Debug\netstandard2.0\ChallengeInterest.ViewModel.pdb
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\obj\Debug\netstandard2.0\ChallengeInterest.ViewModel.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\obj\Debug\netstandard2.0\ChallengeInterest.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\obj\Debug\netstandard2.0\ChallengeInterest.ViewModel.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\obj\Debug\netstandard2.0\ChallengeInterest.ViewModel.AssemblyInfo.cs
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\obj\Debug\netstandard2.0\ChallengeInterest.ViewModel.dll
+C:\Users\rafae\source\repos\ChallengeInterest\ChallengeInterest.ViewModel\obj\Debug\netstandard2.0\ChallengeInterest.ViewModel.pdb
